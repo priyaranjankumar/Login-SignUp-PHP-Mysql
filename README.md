@@ -37,11 +37,11 @@
   ```
  
  * **Step Fifth:**
-  Open terminal and paste this command to open mysql databse;
-  ```
-  mysql -u root -p1234
+     Open terminal and paste this command to open mysql databse;
+     ```
+     mysql -u root -p1234
  
-  ```
+     ```
  * **Step Sixth:**
      Create a **database**
      ```
@@ -49,10 +49,10 @@
      ```
   </br>
   
-    ```
-    use logindetails;
+      ```
+      use logindetails;
   
-    ```
+     ```
   * **Step Seventh:** 
       Create a table to store user data
   
