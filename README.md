@@ -46,11 +46,11 @@
      Create a **database**
      ```
      create database logindetails;
+     
      ```
-  </br>
-  
-      ```
-      use logindetails;
+     
+     ```
+     use logindetails;
   
      ```
   * **Step Seventh:** 
