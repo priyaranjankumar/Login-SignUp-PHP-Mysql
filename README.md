@@ -89,3 +89,12 @@
     http://localhost/registration
     
     ```
+    ### you will be greated with this page.
+    
+    ![](img/login.png)
+    
+    
+    
+    Click on sign up page to sign up for a account.
+    then sign back again with the username and password.
+    
