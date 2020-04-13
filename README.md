@@ -89,16 +89,23 @@
     http://localhost/registration
     
     ```
-    ### you will be greated with this page.
+    ### You will be greated with this page.
     
     ![](img/Login.png)
     
    </br>
    </br>
-   ### Click on sign up page to sign up for a account.
-   ![](img/signup.png)
    </br>
    </br>
    
-   ### then sign back again with the username and password.
-   ![](img/Loged in.png)
+   ### Click on sign up page to sign up for a account.
+   
+   ![](img/signup.png)
+   
+   </br>
+   </br>
+   </br>
+   </br>
+   
+   ### Then sign back again with the username and password.
+   ![](img/loggedin.png)
