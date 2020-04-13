@@ -30,7 +30,7 @@
   
   ```
 * **Step Fourth:**
-  Install **PHP** and **MySql** Connector for saving password.
+  Install **PHP** and **MySql** Connector.
   
   ```
   sudo apt-get install php-mysql
