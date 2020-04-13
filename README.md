@@ -22,3 +22,18 @@
   sudo apt-get install mysql
   
   ```
+* **Step Third:**
+  Install **MySql-Client** using this command.
+  
+  ```
+  sudo apt-get install mysql-client
+  
+  ```
+* **Step Fourth:**
+  Install **PHP** and **MySql** Connector for saving password.
+  
+  ```
+  sudo apt-get install php-mysql
+  
+ ```
+ 
