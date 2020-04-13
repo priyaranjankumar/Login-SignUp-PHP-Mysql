@@ -82,3 +82,10 @@
     ```
     sudo systemctl restart apache2
     ```
+* **Step Tenth:**
+    Open this URL in browser
+    
+    ```
+    http://localhost/registration
+    
+    ```
