@@ -1,4 +1,4 @@
-#  creating a user registration system where users can create an account by providing username, email and password, login and logout using PHP and MySQL.
+#  Creating a user registration system where users can create an account by providing username, email and password, login and logout using PHP and MySQL.
 
 ## Prerequisite
 * PHP
@@ -91,10 +91,14 @@
     ```
     ### you will be greated with this page.
     
-    ![](img/login.png)
+    ![](img/Login.png)
     
-    
-    
-    Click on sign up page to sign up for a account.
-    then sign back again with the username and password.
-    
+   </br>
+   </br>
+   ### Click on sign up page to sign up for a account.
+   ![](img/signup.png)
+   </br>
+   </br>
+   
+   ### then sign back again with the username and password.
+   ![](img/Loged in.png)
